@@ -40,7 +40,7 @@ This repository contains the frontend portion of the application, built with Rea
 - **Express.js**: Backend framework for routing.
 - **Node.js**: Server-side runtime environment.
 
-You can find the backend repository [here](#) (https://github.com/dimitry-co/Your-Places-mern-backend).
+You can find the backend repository [here](https://github.com/dimitry-co/Your-Places-mern-backend).
 
 
 ## Live Demo
